@@ -1,4 +1,4 @@
-# second_app
+# persnality_app
 
 A new Flutter project.
 
